@@ -29,6 +29,11 @@ It teaches HTML semantics, page structure, and proper tag usage for clean, maint
 
 ---
 
+## 🔗 Live Demo  
+Check it out here: [Netflix Clone Live](https://vishwajeet805.github.io/Nextflix-Clone/)
+
+---
+
 ## 📂 Folder Structure
 
 Netflix-Clone/
